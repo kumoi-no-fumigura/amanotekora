@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/amanotekora",
  "yomi": "あまのてこらしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安中期（10世紀）",
+  "author": "藤原師氏（913〜970）（伝）",
+  "desc": "権大納言藤原師氏の家集と伝える小さな集。四季の題で歌を並べる。奥書に定家自筆本から写したとある。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -1107,6 +1112,6 @@
   "poems": 94,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
